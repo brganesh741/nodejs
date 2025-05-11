@@ -103,7 +103,7 @@ montioring -> push all the logs to centralized repo which here can be elasticsea
 
 ****Steps Followed: Summary****
 
-**1. Check Minikube is running
+1. Check Minikube is running
 2. Docker is Running
 3. Helm is avaliable
 4. First create sample node js application via yarn init
@@ -140,12 +140,3 @@ montioring -> push all the logs to centralized repo which here can be elasticsea
 
 
 Please let me know if you have any questions.
-
-
-
-
-
-
-
-
-**
